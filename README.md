@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on full site editing
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for sponsors
