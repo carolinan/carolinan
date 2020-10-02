@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on full site editing
-- 🌱 I’m currently learning React
 - 🤔 I’m looking for sponsors
 - 💬 Ask me about block based themes
 - 📫 How to reach me: carolina@fullsiteediting.com
