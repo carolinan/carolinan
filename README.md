@@ -7,6 +7,7 @@ I am a core committer, WordCamp speaker, former Themes Team representative, and 
 I was one of the lead developers for the default themes Twenty Twenty-One and Twenty Twenty-Five.
 
 For clarity: I am no longer sponsored or employed by Yoast and am currently looking for new sponsorship to support my open-source work.
+https://github.com/sponsors/carolinan
 
 I am open to remote work and interested in diversifying my work. I am especially interested in projects related to:
 - Transitioning to blocks and block themes.
