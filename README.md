@@ -1,18 +1,24 @@
 ### Hi there 👋
- 
-💔💔💔 I am no longer sponsored to contribute to WordPress.
 
-I have not opened GitHub sponsors again because I still need to figure out if and how
-I would be able to return to contributing at least part time.
-If you would like to sponsor me a few hours per month and be listed as a
-sponsor of fullsiteediting.com (my FSE and block theme tutorial site), contact me.
-  
-- I am a core committer, WordCamp speaker and bundled theme component maintainer.
-- I was one of the leads for the default themes Twenty Twenty-One and Twenty-Twenty-Five (And before you ask, yes once every four years is enough).
-- With my limited avialability right now, I focus on contributing to Gutenberg, bundled themes, and the theme's support forums.
-  
-- 💻 I work as a developer at Yoast.
+My name is Carolina Nymark and I am a long-term WordPress contributor,
+with my main focus being the block editor, block themes, accessibility, and education.
+
+I am a core committer, WordCamp speaker, former Themes Team representative, and bundled theme component maintainer.
+I was one of the lead developers for the default themes Twenty Twenty-One and Twenty Twenty-Five.
+
+For clarity: I am no longer sponsored or employed by Yoast and am currently looking for new sponsorship to support my open-source work.
+
+I am open to remote work and interested in diversifying my work. I am especially interested in projects related to:
+- Transitioning to blocks and block themes.
+- Accessibility and disability rights.
+- Custom block development (ACF or regular blocks).
+
+I am in the
+
+ ----------------
+
 - 💬 Ask me about block themes and site editing.
 - 📫 How to reach me: carolina@fullsiteediting.com
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I have a large collection of Eeyore items.
+- 🕒 Time zone: CET / CEST (Europe/Stockholm)
+- ⚡ Fun fact: I run a webshop where I sell embroidery patterns created from 16th to 19th century textiles.
