@@ -14,8 +14,6 @@ I am open to remote work and interested in diversifying my work. I am especially
 - Accessibility and disability rights.
 - Custom block development (ACF or regular blocks).
 
-I am in the
-
  ----------------
 
 - 💬 Ask me about block themes and site editing.
