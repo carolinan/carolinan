@@ -19,5 +19,5 @@ I am open to remote work and interested in diversifying my work. I am especially
 - 💬 Ask me about block themes and site editing.
 - 📫 How to reach me: carolina@fullsiteediting.com
 - 😄 Pronouns: She / Her
-- 🕒 Time zone: CET / CEST (Europe/Stockholm)
+- 🕒 Time zone: CET / CEST (Europe/Stockholm) (UTC+1)
 - ⚡ Fun fact: I run a webshop where I sell embroidery patterns created from 16th to 19th century textiles.
